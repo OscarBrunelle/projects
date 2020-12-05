@@ -1,0 +1,6 @@
+https://www.scirra.com/forum/how-to-create-artificial-intelligent-for-monopoly-game_t127701
+http://blog.markshead.com/869/state-machines-computer-science/
+https://fr.wikipedia.org/wiki/Automate_fini
+https://www.skorks.com/2011/09/why-developers-never-use-state-machines/
+https://codereview.stackexchange.com/questions/40468/creating-a-monopoly-board
+https://github.com/intrepidcoder/monopoly

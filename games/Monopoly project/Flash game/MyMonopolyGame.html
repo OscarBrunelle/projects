@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+
+
+	<head>
+		<link rel="stylesheet" href="Beautiful.css">
+
+		<script src="scripts.js"></script>
+
+		<meta charset="UTF-8">
+		<meta name="description" content="Free Monopoly Flash Game">
+		<meta name="keywords" content="Monopoly, Free, Game">
+		<meta name="author" content="Oscar Brunelle">
+
+		<title>My Monopoly Game</title>
+	</head>
+
+
+
+	<body>
+		<?php include header.php ?>
+		<?php include menu.php ?>
+
+		<div class="full_width">
+	  	<h1 class="title">Monopoly!</h1>
+		</div>
+
+		<button onclick="startTheGame()">Click this button to start the game!</button>
+
+	    <div class="full_width">
+	        <img class="centered" src="https://i.ebayimg.com/images/g/mzwAAOSwal5YL29R/s-l300.jpg"
+					alt="Monopoly Board" id="resp_img" width="100" height="100">
+
+	    </div>
+
+		<div>
+		    <button class="green_button" id="buy" onclick="ableBtn()">Buy</button>
+		    <button id="sell" disabled=true onclick="sell()">Sell</button>
+		</div>
+
+		<div>
+			<button id="nightMode" onclick="nightMode()">Night Mode</button>
+			<button id="dayMode" onclick="dayMode()">Day Mode</button>
+		</div>
+
+		<button onclick="submit()">Submit</button>
+
+		<?php include footer.php ?>
+
+	</body>
+</html>
+
+<!--src="‪C:\Users\Oscar\Desktop\#Oscar\_Programmation\Projects
+\Monopoly project\Flash Game\Monopoly_board.png"
+src="https://www.w3schools.com/images/lamp.jpg"-->

@@ -1,0 +1,6 @@
+print("hello world")
+print("quel est ton prenom")
+prenom=input()
+print("on est en quelle annee connard?")
+annee=input()
+print("hé",prenom,"tes le plus gros fils de pute de",annee)

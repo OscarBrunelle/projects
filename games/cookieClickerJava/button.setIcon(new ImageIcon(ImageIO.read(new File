@@ -1,0 +1,5 @@
+button.setIcon(new ImageIcon(ImageIO.read(new File("path/to/image.png"))))
+
+button.setOpaque(false);
+button.setContentAreaFilled(false);
+button.setBorderPainted(false);
