@@ -1,4 +1,5 @@
-Comment télécharger une vidéo YouTube:
+Comment télécharger une vidéo YouTube:  
+(Si vous avez déjà effectué le téléchargement, passez directement à l'étape 3)  
 
 1. Télécharger le fichier zip contenant les fichiers nécessaires via le lien suivant:
 https://raw.githubusercontent.com/OscarBrunelle/projects/main/bats/youtube-dl/youtube-dl.zip  
